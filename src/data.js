@@ -1,10 +1,10 @@
 import {IoCodeWorking, IoLogoGithub, IoLogoLinkedin} from 'react-icons/io5';
-import img1 from "./imagesdesk/img1.jpg";
-import img2 from "./imagesdesk/img2.jpg";
-import img3 from "./imagesdesk/img3.jpg";
-import img4 from "./imagesdesk/img4.jpg";
-import img5 from "./imagesdesk/img5.jpg";
-import img6 from "./imagesdesk/img6.jpg";
+import img1 from "./images/img1.jpg";
+import img2 from "./images/img2.jpg";
+import img3 from "./images/img3.jpg";
+import img4 from "./images/img4.jpg";
+import img5 from "./images/img5.jpg";
+import img6 from "./images/img6.jpg";
 
 
 
