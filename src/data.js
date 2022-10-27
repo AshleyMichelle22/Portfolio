@@ -12,91 +12,83 @@ export const Experience = [
 
     {
         id: 1,
-        date: "2016 - present",
+        date: "Present",
         iconsSrc: <IoCodeWorking />,
-        title: "Creative Director",
-        location: "Doha, Qatar",
+        title: "Freelance Developer",
+        location: "Charlotte, NC",
         description:
-          "Creative Direction, User Experience, Visual Design, Project Management, Team Leading",
+          "Utlizing technical skills such as JS, React, NPM, CSS, HTML, APIS, building sites for clients.",
       },
       {
         id: 2,
-        date: "2014 - 2016",
+        date: "2014 - Present",
         iconsSrc: <IoCodeWorking />,
-        title: "Creative Director",
-        location: "Doha, Qatar",
+        title: "Owner/Operator, MommaMays",
+        location: "Charlotte, NC",
         description:
-          "Creative Direction, User Experience, Visual Design, Project Management, Team Leading",
+          "Owner/Operator of an online clothing store. Embroidery & Engraving. Managing customer service and requests. Desing and execute new clothing from inpiration to actual goods. Managing social media sites, shipping and receiving. Marketing and sales director roll. Invoicing and record keeping. Utilizing software programs such as adobe and more for mock up and photography",
       },
       {
         id: 3,
         date: "2012 - 2014",
         iconsSrc: <IoCodeWorking />,
-        title: "Creative Director",
-        location: "Doha, Qatar",
+        title: "Physician Subsitute",
+        location: "Octapharma Plasma, Charlotte, NC",
         description:
-          "Creative Direction, User Experience, Visual Design, Project Management, Team Leading",
+          "Asses potential donors/health screening. Emergency assistance for donors. Communicating with Physicians, Pharmacists and Labs",
       },
       {
         id: 4,
         date: "2011 - 2012",
         iconsSrc: <IoCodeWorking />,
-        title: "Creative Director",
-        location: "Doha, Qatar",
+        title: "Pediatric Nurse",
+        location: "Gastonia, NC",
         description:
-          "Creative Direction, User Experience, Visual Design, Project Management, Team Leading",
+          "Skilled nursing care for Pediatric patients",
       },
-      {
-        id: 5,
-        date: "2010 - 2011",
-        iconsSrc: <IoCodeWorking />,
-        title: "Creative Director",
-        location: "Doha, Qatar",
-        description:
-          "Creative Direction, User Experience, Visual Design, Project Management, Team Leading",
-      }, 
+      
 ];
 
 export const Projects = [
     {
         id: 1,
         name: "Recipe App",
-        imageSrc: "img1",
+        imageSrc: {img1},
         techs: "Js, CSS, HTML, API",
         github: "#",
       },
       {
         id: 2,
         name: "ECommerce Site",
-        imageSrc: "img2",
+        imageSrc: {img2},
         techs: "Js, HTML, CSS",
         github: "#",
       },
       {
         id: 3,
         name: "Pong Game",
-        imageSrc: "img3",
+        imageSrc: {img3},
         techs: "Js, CSS, HTML",
         github: "#",
       },
       {
         id: 4,
         name: "Taco-Parser ",
-        imageSrc: "img4",
+        imageSrc: {img4},
         techs: "C#, API",
         github: "#",
       },
       {
         id: 5,
         name: "Snake Game",
-        imageSrc: "img5",
+        imageSrc: {img5},
         techs: "Js, CSS, HTML",
         github: "#",
       },
       {
         id: 6,
         name: "Todo List",
-        imageSrc: "img6",
+        imageSrc: {img6},
         techs: "Js, CSS, HTML",
         github: "#",
       },

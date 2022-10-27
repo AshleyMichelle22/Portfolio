@@ -158,16 +158,13 @@ function App() {
 
              <div className="w-full h-420 flex flex-col items-center justify-center">
                <p className="text-lg text-textBase text-center">
-                  Creative Jr.Web Developer seeking an opportunity to extend my 
-                  web development skills and knowledge.
-                  alsdhfajkldhfajsdhfalksjdh
-                  ajksdhfausefhalkjsdfnaklssjdfghsdkjfghsdfgsdfg
-                  sdfgsdfgsdfgsdfgdsfgsdfgsdfgsdfgsdfgsdfgsdfgs
-                  sdfgsdfgsldfgsdlkfghskldfjghskldfgldfgsdf
-                  sfgsdfgsjldfgjsdklfjgslkdfjgslkdfgjsdkfjgsldkfjgsd
-                  sdfgskdjfghlkdfhgsdfkjghsdkfjghslkdfjghslkdfghsldjfg
-                  sdkjfghskjdfghkjdghskldjfghsdkfghskldfghskdjfgldf
-                  urtyiurhiu vrhsuhg shfgashaurtitreadsnklvyfaouropjra
+                  Creative Full stack Developer looking for an exciting opportunity.
+                  Eager and willing to learn and acquire new skills beneficial to company needs.
+                  Years of customer service experience as a buisness owner, I come with complete 
+                  understanding of the importance of buisness productivity. 
+                  Using time wisely and getting things done. Self sufficent worker, able to use time 
+                  wisely to complete tasks given.
+                  
                </p>
 
                <motion.button
